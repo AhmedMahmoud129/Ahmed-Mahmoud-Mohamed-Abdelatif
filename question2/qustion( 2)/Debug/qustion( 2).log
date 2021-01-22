@@ -1,0 +1,3 @@
+﻿  qustion( 2).cpp
+C:\Users\metro\source\repos\qustion( 2)\qustion( 2)\qustion( 2).cpp(14,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  qustion( 2).vcxproj -> C:\Users\metro\source\repos\qustion( 2)\Debug\qustion( 2).exe
